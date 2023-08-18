@@ -1,0 +1,34 @@
+D:\WEB APP\TMDBLibrary\obj\Debug\net6.0\TMDBLibrary.csproj.AssemblyReference.cache
+D:\WEB APP\TMDBLibrary\obj\Debug\net6.0\TMDBLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\WEB APP\TMDBLibrary\obj\Debug\net6.0\TMDBLibrary.AssemblyInfoInputs.cache
+D:\WEB APP\TMDBLibrary\obj\Debug\net6.0\TMDBLibrary.AssemblyInfo.cs
+D:\WEB APP\TMDBLibrary\obj\Debug\net6.0\TMDBLibrary.csproj.CoreCompileInputs.cache
+D:\WEB APP\TMDBLibrary\bin\Debug\net6.0\TMDBLibrary.deps.json
+D:\WEB APP\TMDBLibrary\bin\Debug\net6.0\TMDBLibrary.dll
+D:\WEB APP\TMDBLibrary\bin\Debug\net6.0\TMDBLibrary.pdb
+D:\WEB APP\TMDBLibrary\obj\Debug\net6.0\TMDBLibrary.dll
+D:\WEB APP\TMDBLibrary\obj\Debug\net6.0\refint\TMDBLibrary.dll
+D:\WEB APP\TMDBLibrary\obj\Debug\net6.0\TMDBLibrary.pdb
+D:\WEB APP\TMDBLibrary\obj\Debug\net6.0\ref\TMDBLibrary.dll
+D:\WEB APP\TMDBLibrary\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\WEB APP\TMDBLibrary\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
+D:\WEB APP\TMDBLibrary\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
+D:\WEB APP\TMDBLibrary\bin\Debug\net6.0\TMDBLibrary.runtimeconfig.json
+D:\WEB APP\TMDBLibrary\obj\Debug\net6.0\TMDBLibrary.genruntimeconfig.cache
+D:\TMDBLibrary\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\TMDBLibrary\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
+D:\TMDBLibrary\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
+D:\TMDBLibrary\bin\Debug\net6.0\TMDBLibrary.deps.json
+D:\TMDBLibrary\bin\Debug\net6.0\TMDBLibrary.runtimeconfig.json
+D:\TMDBLibrary\bin\Debug\net6.0\TMDBLibrary.dll
+D:\TMDBLibrary\bin\Debug\net6.0\TMDBLibrary.pdb
+D:\TMDBLibrary\obj\Debug\net6.0\TMDBLibrary.csproj.AssemblyReference.cache
+D:\TMDBLibrary\obj\Debug\net6.0\TMDBLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\TMDBLibrary\obj\Debug\net6.0\TMDBLibrary.AssemblyInfoInputs.cache
+D:\TMDBLibrary\obj\Debug\net6.0\TMDBLibrary.AssemblyInfo.cs
+D:\TMDBLibrary\obj\Debug\net6.0\TMDBLibrary.csproj.CoreCompileInputs.cache
+D:\TMDBLibrary\obj\Debug\net6.0\TMDBLibrary.dll
+D:\TMDBLibrary\obj\Debug\net6.0\refint\TMDBLibrary.dll
+D:\TMDBLibrary\obj\Debug\net6.0\TMDBLibrary.pdb
+D:\TMDBLibrary\obj\Debug\net6.0\TMDBLibrary.genruntimeconfig.cache
+D:\TMDBLibrary\obj\Debug\net6.0\ref\TMDBLibrary.dll
